@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is first file
 
+=======
+this is first project
+>>>>>>> 25fdaa4f017d2c56d6a0282ec3b00656423ffd43
